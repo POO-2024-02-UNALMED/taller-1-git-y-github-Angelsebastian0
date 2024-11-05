@@ -1,4 +1,4 @@
-se creo un archivo desde github
+github no lee una carpeta vacia
 
 Nombre: Angel sebastian cuaran cruz
 Edad: 17
