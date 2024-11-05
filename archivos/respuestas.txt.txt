@@ -1,1 +1,3 @@
 no ocurrio ningun problema
+
+respuesta ejercicio de analisis: C
